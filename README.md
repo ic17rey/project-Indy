@@ -2,7 +2,7 @@
 
 #### The project focuses on the impact COVID-19 had on Marion County. COVID-19 case data, unemployment claim data and resources available for families in need.
 
-* Original files are in partner's repoository at https://github.com/mcanad4/Project_2 and the live project is able to be accessed at https://projectindy.herokuapp.com/
+* Original files are in partner's repoository at https://github.com/mcanad4/Project_2 and the project was able to be accessed at https://projectindy.herokuapp.com/ (but is no longer live)
 
 #### Sources
 1. [Indiana Datahub: COVID-19 Cases by Zip](https://hub.mph.in.gov/dataset/covid-19-cases-by-zip)
@@ -12,7 +12,7 @@
 5. [Bus stop locations](https://data.indy.gov/search?collection=Dataset&q=transportation), from City of Indianapolis and Marion County - IndyGIS
 
 #### Files
-App.py creates the connection through flask to the database. The static folder inside the Indy directory includes all js and css files needed, and the templates folder includes the index.html. The live app is available to view the project at [Project Indy](https://projectindy.herokuapp.com/).
+App.py creates the connection through flask to the database. The static folder inside the Indy directory includes all js and css files needed, and the templates folder includes the index.html. When the app was live it was available at [Project Indy](https://projectindy.herokuapp.com/).
 
 #### Visualizations
 
